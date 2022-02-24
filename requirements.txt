@@ -1,1 +1,1 @@
-fastapi
+git+https://github.com/pingme998/inrc.git
